@@ -1,0 +1,7 @@
+{
+  "_comment": "THINGS-EEG2 dataset. Used for reproducibility experiments. Paths are relative to the project root.",
+  "data_path": "Data/Preprocessed_data_250Hz/ThingsEEG",
+  "img_directory_training": "Data/images_set/ThingsEEG/training_images",
+  "img_directory_test": "Data/images_set/ThingsEEG/test_images",
+  "features_path": "Data/features"
+}

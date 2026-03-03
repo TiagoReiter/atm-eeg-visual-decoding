@@ -1,0 +1,9 @@
+{
+  "_comment": "Alljoined1 dataset (naturalistic scenes from NSD). Used for the generalisability experiments. Paths are relative to the project root.",
+  "data_path": "Data/Preprocessed_data_250Hz/Alljoined1",
+  "img_directory_training": "Data/images_set/Alljoined1/training_images",
+  "img_directory_test": "Data/images_set/Alljoined1/test_images",
+  "features_path": "Data/features",
+  "label_json_path": "Data/images_set/Alljoined1/nsdid_to_cocoid_and_categories.json",
+  "nsd_expdesign": "Data/Preprocessed_data_250Hz/Alljoined1/nsd_expdesign.mat"
+}

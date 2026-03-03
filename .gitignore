@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# WandB
+wandb/
+
+# Data (large files — see README for download instructions)
+Data/
+
+# Model checkpoints and outputs
+models/
+outputs/
+*_vae_imgs/
+*_vae_train_imgs/
+*.pth
+
+# Syncthing
+.stfolder/
+
+# Environment / secrets
+.env
+
+# Binary data files
+*.npy
+
+# Generated plots
+pos_img_text.png
+
+# Pretrained model weights (large; download separately)
+Generation/diffusion_prior.pt
+
+# Misc
+*.log
+*.tmp
